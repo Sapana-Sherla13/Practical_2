@@ -46,13 +46,7 @@ public class AllOperators {
         c %= b;
         System.out.println("c %= b : " + c);
 
-        // Unary Operators
-        System.out.println("\nUnary Operators:");
-        int x = 10;
-        System.out.println("x++ : " + (x++));
-        System.out.println("++x : " + (++x));
-        System.out.println("x-- : " + (x--));
-        System.out.println("--x : " + (--x));
+    
 
         // Bitwise Operators
         System.out.println("\nBitwise Operators:");
