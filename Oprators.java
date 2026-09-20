@@ -20,11 +20,7 @@ public class AllOperators {
         System.out.println("a >= b : " + (a >= b));
         System.out.println("a <= b : " + (a <= b));
 
-        // Logical Operators
-        System.out.println("\nLogical Operators:");
-        System.out.println("(a > b) && (a != b) : " + ((a > b) && (a != b)));
-        System.out.println("(a < b) || (a != b) : " + ((a < b) || (a != b)));
-        System.out.println("!(a > b) : " + (!(a > b)));
+        
 
         // Assignment Operators
         System.out.println("\nAssignment Operators:");
